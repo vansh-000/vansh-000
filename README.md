@@ -59,15 +59,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-000&show_icons=true&theme=radical&hide_title=true&hide_rank=true&include_all_commits=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-000&show_icons=true&theme=radical&hide_title=true&hide_rank=true&include_all_commits=true" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh-000&theme=radical" width="55%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-000&layout=compact&theme=radical&hide_title=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-000&layout=compact&theme=radical&hide_title=true" width="44%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh-000&theme=radical" width="50%" />
 </p>
 
 <p align="center">
