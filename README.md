@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### Programming Languages
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <code><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /></a></code>
   &nbsp;&nbsp;
@@ -37,8 +37,8 @@
   &nbsp;&nbsp;
   <code><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" /></a></code>
 </p>
-
-### Frontend Development
+  &nbsp;&nbsp;
+<h3 align="center">Frontend Development</h3>
 <p align="center">
   <code><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" /></a></code>
   &nbsp;&nbsp;
@@ -52,7 +52,7 @@
   &nbsp;&nbsp;
   <code><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" /></a></code>
 </p>
-
+  &nbsp;&nbsp;
 <p align="center">
   <code><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a></code>
   &nbsp;&nbsp;
@@ -60,8 +60,8 @@
   &nbsp;&nbsp;
   <code><a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/></a></code>
 </p>
-
-### Backend Development
+  &nbsp;&nbsp;
+<h3 align="center">Backend Development</h3>
 <p align="center">
   <code><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" /></a></code>
   &nbsp;&nbsp;
@@ -71,8 +71,8 @@
   &nbsp;&nbsp;
   <code><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60" /></a></code>
 </p>
-
-### DevOps & Tools
+  &nbsp;&nbsp;
+<h3 align="center">DevOps & Tools</h3>
 <p align="center">
   <code><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" /></a></code>
   &nbsp;&nbsp;
@@ -94,8 +94,8 @@
   &nbsp;&nbsp;
   <code><img title="npm" alt="npm" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 </p>
-
-### Operating Systems
+  &nbsp;&nbsp;
+<h3 align="center">Operating Systems</h3>
 <p align="center">
   <code><img title="Linux" alt="linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
   &nbsp;&nbsp;
@@ -119,13 +119,11 @@
  <img src="https://github-profile-trophy.vercel.app/?username=Vansh-000&theme=radical&no-bg=true&margin-w=10" width="100%" />
 </p>
 
----
 
 ## 📫 Connect with Me
 
 <p align="center"> <a href="https://www.linkedin.com/in/vanshverma000" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Vansh%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:23165@iiitu.ac.in" target="_blank"> <img src="https://img.shields.io/badge/Email-23165@iiitu.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/Vansh-000" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Vansh--000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.instagram.com/_vanshnamdev" target="_blank"> <img src="https://img.shields.io/badge/Instagram-_vanshnamdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
 
----
 
 <div align="center">
     <a href="https://git.io/typing-svg">
