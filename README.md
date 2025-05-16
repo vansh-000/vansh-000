@@ -1,3 +1,5 @@
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Vansh-000/Vansh-000/blob/main/assets/header.png"></div>
+
 <h1 align="center">Hi 👋, I'm Vansh Verma</h1>
 <h3 align="center">🚀 Full Stack Developer & Tech Enthusiast from India</h3>
 
@@ -83,3 +85,5 @@
 <p align="center">
   <i>"Build with passion. Ship with purpose."</i> 🚀
 </p> 
+
+<div align="center" ><img alt="" width="100%" src="https://github.com/Vansh-000/Vansh-000/blob/main/assets/footer.png"></div>
